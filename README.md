@@ -167,7 +167,7 @@ South Africa has the highest GBV statistics globally according to the World Heal
 
 ## Project Deliverables
 
-- [View Presentation](Oral%20Group%20Presentation-1.pdf)
+- [View Presentation](Oral%20Group%20Presentation.pdf)
 - Business analysis documentation
 - System design specifications
 - Impact assessment report
