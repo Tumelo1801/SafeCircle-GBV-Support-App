@@ -187,3 +187,17 @@ This was an academic project focused on business analysis and solution design. T
 Email: tumitumelo1801@gmail.com  
 GitHub: [@Tumelo1801](https://github.com/Tumelo1801)# SafeCircle-GBV-Support-App
 Business analysis and solution design for a GBV emergency support application (Academic Project)
+
+## 📸 SafeCircle – Presentation Overview
+
+### 1️⃣ Project Overview
+![SafeCircle Title](images/screenshots/safecircle-title.png)
+
+### 2️⃣ How the System Works
+![How SafeCircle Works](images/screenshots/How-it-works.png)
+
+### 3️⃣ Key Features
+![Key Features](images/screenshots/Features.png)
+
+### 4️⃣ Community Impact
+![Community Impact](images/screenshots/Impact.png)
