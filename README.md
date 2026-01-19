@@ -191,13 +191,13 @@ Business analysis and solution design for a GBV emergency support application (A
 ## 📸 SafeCircle – Presentation Overview
 
 ### 1️⃣ Project Overview
-![SafeCircle Title](images/screenshots/safecircle-title.png)
+![SafeCircle Title](Presentation-screenshots/safecircle-title.png)
 
 ### 2️⃣ How the System Works
-![How SafeCircle Works](images/screenshots/How-it-works.png)
+![How SafeCircle Works](Presentation-screenshots/How-it-works.png)
 
 ### 3️⃣ Key Features
-![Key Features](images/screenshots/Features.png)
+![Key Features](Presentation-screenshots/Features.png)
 
 ### 4️⃣ Community Impact
-![Community Impact](images/screenshots/Impact.png)
+![Community Impact](Presentation-screenshots/Impact.png)
